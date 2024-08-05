@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\roger\\OneDrive\\Escritorio\\Projects\\C#\\DNS Enhancer\\DNS Enhancer.csproj": {}
+    "C:\\Users\\roger\\OneDrive\\Escritorio\\Projects\\C#\\DNS-Enhancer\\DNS Enhancer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\roger\\OneDrive\\Escritorio\\Projects\\C#\\DNS Enhancer\\DNS Enhancer.csproj": {
+    "C:\\Users\\roger\\OneDrive\\Escritorio\\Projects\\C#\\DNS-Enhancer\\DNS Enhancer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\roger\\OneDrive\\Escritorio\\Projects\\C#\\DNS Enhancer\\DNS Enhancer.csproj",
+        "projectUniqueName": "C:\\Users\\roger\\OneDrive\\Escritorio\\Projects\\C#\\DNS-Enhancer\\DNS Enhancer.csproj",
         "projectName": "DNS Enhancer",
-        "projectPath": "C:\\Users\\roger\\OneDrive\\Escritorio\\Projects\\C#\\DNS Enhancer\\DNS Enhancer.csproj",
+        "projectPath": "C:\\Users\\roger\\OneDrive\\Escritorio\\Projects\\C#\\DNS-Enhancer\\DNS Enhancer.csproj",
         "packagesPath": "C:\\Users\\roger\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\roger\\OneDrive\\Escritorio\\Projects\\C#\\DNS Enhancer\\obj\\",
+        "outputPath": "C:\\Users\\roger\\OneDrive\\Escritorio\\Projects\\C#\\DNS-Enhancer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\roger\\AppData\\Roaming\\NuGet\\NuGet.Config",

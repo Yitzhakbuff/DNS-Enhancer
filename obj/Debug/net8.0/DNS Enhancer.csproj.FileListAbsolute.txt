@@ -12,3 +12,18 @@ C:\Users\roger\OneDrive\Escritorio\Projects\C#\DNS Enhancer\obj\Debug\net8.0\ref
 C:\Users\roger\OneDrive\Escritorio\Projects\C#\DNS Enhancer\obj\Debug\net8.0\DNS Enhancer.pdb
 C:\Users\roger\OneDrive\Escritorio\Projects\C#\DNS Enhancer\obj\Debug\net8.0\DNS Enhancer.genruntimeconfig.cache
 C:\Users\roger\OneDrive\Escritorio\Projects\C#\DNS Enhancer\obj\Debug\net8.0\ref\DNS Enhancer.dll
+C:\Users\roger\OneDrive\Escritorio\Projects\C#\DNS-Enhancer\bin\Debug\net8.0\DNS Enhancer.exe
+C:\Users\roger\OneDrive\Escritorio\Projects\C#\DNS-Enhancer\bin\Debug\net8.0\DNS Enhancer.deps.json
+C:\Users\roger\OneDrive\Escritorio\Projects\C#\DNS-Enhancer\bin\Debug\net8.0\DNS Enhancer.runtimeconfig.json
+C:\Users\roger\OneDrive\Escritorio\Projects\C#\DNS-Enhancer\bin\Debug\net8.0\DNS Enhancer.dll
+C:\Users\roger\OneDrive\Escritorio\Projects\C#\DNS-Enhancer\bin\Debug\net8.0\DNS Enhancer.pdb
+C:\Users\roger\OneDrive\Escritorio\Projects\C#\DNS-Enhancer\obj\Debug\net8.0\DNS Enhancer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roger\OneDrive\Escritorio\Projects\C#\DNS-Enhancer\obj\Debug\net8.0\DNS Enhancer.AssemblyInfoInputs.cache
+C:\Users\roger\OneDrive\Escritorio\Projects\C#\DNS-Enhancer\obj\Debug\net8.0\DNS Enhancer.AssemblyInfo.cs
+C:\Users\roger\OneDrive\Escritorio\Projects\C#\DNS-Enhancer\obj\Debug\net8.0\DNS Enhancer.csproj.CoreCompileInputs.cache
+C:\Users\roger\OneDrive\Escritorio\Projects\C#\DNS-Enhancer\obj\Debug\net8.0\DNS Enhancer.sourcelink.json
+C:\Users\roger\OneDrive\Escritorio\Projects\C#\DNS-Enhancer\obj\Debug\net8.0\DNS Enhancer.dll
+C:\Users\roger\OneDrive\Escritorio\Projects\C#\DNS-Enhancer\obj\Debug\net8.0\refint\DNS Enhancer.dll
+C:\Users\roger\OneDrive\Escritorio\Projects\C#\DNS-Enhancer\obj\Debug\net8.0\DNS Enhancer.pdb
+C:\Users\roger\OneDrive\Escritorio\Projects\C#\DNS-Enhancer\obj\Debug\net8.0\DNS Enhancer.genruntimeconfig.cache
+C:\Users\roger\OneDrive\Escritorio\Projects\C#\DNS-Enhancer\obj\Debug\net8.0\ref\DNS Enhancer.dll

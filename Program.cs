@@ -66,7 +66,7 @@ class Program
                     bestDNS = dnsType;
                 }
             }
-            Debug.Info($"Status: {pingReply.Status}    | Ping: {pingReply.RoundtripTime}ms    | DNS: {dnsType}");
+            Debug.Info($"Status: {pingReply.Status,-8}    | Ping: {pingReply.RoundtripTime,-3}ms    | DNS: {dnsType}");
         }
 
         Debug.Info($"Best ping: {bestPing}    | DNS: {bestDNS}");
