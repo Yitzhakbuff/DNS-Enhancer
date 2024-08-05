@@ -44,7 +44,7 @@ DNS Enhancer changes DNS servers multiple times to find the one with the best la
 
 Here is an example of the application in use:
 
-![Example Image](linkdeimagenxd)
+![Example Image](https://cdn.discordapp.com/attachments/1234200743662059521/1269825708339888128/img.png?ex=66b178d9&is=66b02759&hm=41a802f13b664d17d3b51ec4553bacc0e59cd0f8bcef2daff93fd134a797daed&)
 
 ## License
 
